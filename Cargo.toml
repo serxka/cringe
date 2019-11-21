@@ -7,6 +7,7 @@ license = "MIT"
 homepage = "https://github/IrregularWombat/cringe"
 repository = "https://github.com/IrregularWombat/cringe"
 documentation = "https://github.com/IrregularWombat/cringe"
+description = "cringe baby nay nay"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
